@@ -1,0 +1,24 @@
+[{
+    "id": "5041",
+    "title": "Samsung",
+    "price": 150,
+    "img": "images/samsung.jpg"
+},
+{
+    "id": "2074",
+    "title": "Honor",
+    "price": 50,
+    "img": "images/honor.jpg"
+},
+{
+    "id": "3009",
+    "title": "Xiaomi",
+    "price": 350,
+    "img": "images/xiaomi.jpg"
+},
+{
+    "id": "5173",
+    "title": "iPhone",
+    "price": 250,
+    "img": "images/iphone.jpg"
+}]

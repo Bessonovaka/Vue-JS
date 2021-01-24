@@ -1,0 +1,16 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jasmine",
+    "build": "webpack"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.3.0",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
